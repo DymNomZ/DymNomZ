@@ -8,13 +8,15 @@
 - 💻 I’m currently learning **Design Patterns, Data Structures and Algorithms, Data Science, Flutter, Dart, C**
 
 <h3 align="Center">Connect with me:</h3>
-[![My Skills](https://skillicons.dev/iconslinkedin,discord,twitter,instagram](https://skillicons.dev)
-
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+    <img src="https://skillicons.dev/icons?i=linkedin,discord,twitter,instagram" />
   </a>
 </p>
 
 <h3 align="Center">Languages and Tools:</h3>
-[![My Skills](https://skillicons.dev/icons?i=androidstudio,bash,c,dart,figma,firebase,flutter,git,github,gradle,nodejs,ps,powershell,vs code](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=androidstudio,bash,c,dart,figma,firebase,flutter,git,github,gradle,nodejs,ps,powershell,vs code" />
+  </a>
+</p>
