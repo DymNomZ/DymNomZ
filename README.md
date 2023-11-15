@@ -10,13 +10,13 @@
 <h3 align="Center">Connect with me:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linkedin,discord,twitter,instagram" />
+    <img src="https://skillicons.dev/icons?i=linkedin,twitter,instagram" />
   </a>
 </p>
 
 <h3 align="Center">Languages and Tools:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=androidstudio,bash,c,dart,figma,firebase,flutter,git,github,gradle,nodejs,ps,powershell,vs code" />
+    <img src="https://skillicons.dev/icons?i=androidstudio,bash,c,dart,discord,figma,firebase,flutter,git,github,gradle,nodejs,ps,powershell,vs code" />
   </a>
 </p>
