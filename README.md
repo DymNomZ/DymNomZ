@@ -1,4 +1,4 @@
-![Header](./Dymes GitHub Profile Banner.png)
+![Header](./Dymes_GitHub_Profile_Banner.png)
 <h1 align="center">🍀 Hello! I'm Dymes! 🍀/h1>
 <h3 align="center">A Computer Science student, currently exploring the world of programming.</h3>
 <br>
