@@ -1,18 +1,13 @@
-![Header](./Dymes_GitHub_Profile_Banner.png)
+![Header](./dymesbanner.png)
 <h1 align="center">🍀 Hello! I'm Dymes! 🍀/h1>
 <h3 align="center">A Computer Science student, currently exploring the world of programming.</h3>
 <br>
 <h4 align="center">“Whatever you do in life, surround yourself with smart people who'll argue with you." - John Wooden</h4>
 <img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif?cid=ecf05e47ivkn5ji01780hlnjoa3umwqt85fstt5v4tl3ijfa&ep=v1_gifs_search&rid=giphy.gif&ct=g">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=topeque&label=Profile%20views&color=0e75b6&style=flat" alt="topeque" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dymnomz&label=Profile%20views&color=32a86d&style=flat-square&label=Profile+Views" alt="dymnomz profile view count" /> </p>
 
-- 🔭 I’m currently working at **CeniXys**
-- 🔭 Uscript plugin developer
-- 🌱 I’m currently learning **Django, Data Analyis, Data Science, Computer Science,Adruino, C#, C**
-
-- 💬 Ask me about **Django, Python, API, C#, **
-
-![TopeQue's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+- 🏢 I’m currently working at **CeniXys** as a junior app developer
+- 💻 I’m currently learning **Design Patterns, Data Structures and Algorithms, Data Science, Flutter, Dart, C**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
