@@ -21,4 +21,4 @@
   </a>
 </p>
 
-![Dym's GitHub stats](https://github-readme-stats.vercel.app/api?username=DymNomZ&show_icons=true&theme=vue-dark&bg_color=001A0C&border_radius=9.0&text_color=FFE372) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)
+![Dym's GitHub stats](https://github-readme-stats.vercel.app/api?username=DymNomZ&show_icons=true&theme=vue-dark&bg_color=001A0C&border_radius=9.0&text_color=FFE372) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DymNomZ&layout=donut&theme=vue-dark&bg_color=001A0C&border_radius=9.0&text_color=FFE372)
