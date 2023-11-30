@@ -20,3 +20,5 @@
     <img src="https://skillicons.dev/icons?i=bash,c,dart,discord,firebase,flutter,git,github,ps,powershell,vs code" />
   </a>
 </p>
+
+![Dym's GitHub stats](https://github-readme-stats.vercel.app/api?username=DymNomZ&show_icons=true&theme=vue_dark)
