@@ -21,4 +21,4 @@
   </a>
 </p>
 
-![Dym's GitHub stats](https://github-readme-stats.vercel.app/api?username=DymNomZ&show_icons=true&theme=vue_dark)
+![Dym's GitHub stats](https://github-readme-stats.vercel.app/api?username=DymNomZ&show_icons=true&theme=vue-dark&bg_color=457267&border_radius=9.0&text_color=FFE372)
