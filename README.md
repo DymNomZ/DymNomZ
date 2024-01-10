@@ -5,19 +5,25 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=dymnomz&label=Profile%20views&color=32a86d&style=flat-square&label=Profile+Views" alt="dymnomz profile view count" /> </p>
 
 - 🏢 I’m currently working at **CeniXys**
-- 💻 I’m currently learning **Design Patterns, Data Structures and Algorithms, Data Science, Flutter, Dart, C, C++, C#**
+- 💻 I’m currently learning **Data Structures and Algorithms, Databases, and Data Science**
 
 <h3 align="Center">Connect with me:</h3>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linkedin,twitter,instagram" />
+<p align="center" >
+  <a href="https://www.instagram.com/dymnomz/" >
+    <img src="https://skillicons.dev/icons?i=instagram" />
+  </a>
+  <a href="https://www.linkedin.com/in/dymierborgonia/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="https://twitter.com/DymierJohn">
+    <img src="https://skillicons.dev/icons?i=twitter" />
   </a>
 </p>
 
 <h3 align="Center">Languages and Tools:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bash,c,cpp,cs,dart,discord,dotnet,firebase,flutter,git,github,powershell,ps,vscode" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,cs,dart,discord,django,firebase,flutter,php,postgres,ps,visualstudio,vscode" />
   </a>
 </p>
 
