@@ -1,7 +1,8 @@
 ![Header](./dymesbanner.png)
 <h1 align="center">🍀 Hello! I'm Dymes! 🍀</h1>
 <h3 align="center">A Computer Science student, currently exploring the world of programming.</h3>
-<h4 align="center">“Whatever you do in life, surround yourself with smart people who'll argue with you." - John Wooden</h4>
+<h4 align="center">"Okay, well, how do you know it's the right path?"</h4>
+<h4 align="center">"Because it stopped being easy"</h4>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=dymnomz&label=Profile%20views&color=32a86d&style=flat-square&label=Profile+Views" alt="dymnomz profile view count" /> </p>
 
 - 🏢 I’m currently working at **CeniXys**
