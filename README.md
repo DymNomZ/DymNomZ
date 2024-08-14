@@ -10,14 +10,11 @@
 
 <h3 align="Center">Connect with me:</h3>
 <p align="center" >
-  <a href="https://www.instagram.com/dymnomz/" >
-    <img src="https://skillicons.dev/icons?i=instagram" />
-  </a>
   <a href="https://www.linkedin.com/in/dymierborgonia/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="https://twitter.com/DymierJohn">
-    <img src="https://skillicons.dev/icons?i=twitter" />
+  <a href="mailto:dymierborgonia@gmail.com" >
+    <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
   <a href="https://discord.com/users/279180492245565442/">
     <img src="https://skillicons.dev/icons?i=discord" />
