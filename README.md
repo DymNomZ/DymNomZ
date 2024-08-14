@@ -5,8 +5,8 @@
 <h4 align="center">"Because it stopped being easy"</h4>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=dymnomz&label=Profile%20views&color=32a86d&style=flat-square&label=Profile+Views" alt="dymnomz profile view count" /> </p>
 
-- 🏢 I’m currently working at **CeniXys**
-- 💻 I’m currently learning **Data Structures and Algorithms, Databases, and Data Science**
+- 🏢 Worked at **CeniXys** for 7 months
+- 💻 I’m currently learning **Data Structures and Algorithms, Databases, and Object-Oriented Programming**
 
 <h3 align="Center">Connect with me:</h3>
 <p align="center" >
@@ -19,12 +19,15 @@
   <a href="https://twitter.com/DymierJohn">
     <img src="https://skillicons.dev/icons?i=twitter" />
   </a>
+  <a href="https://discord.com/users/279180492245565442/">
+    <img src="https://skillicons.dev/icons?i=discord" />
+  </a>
 </p>
 
 <h3 align="Center">Languages and Tools:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,cs,dart,discord,firebase,flutter,mysql,php,ps,vim,visualstudio,vscode" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,dart,flutter,java,postgres,ps,vscode" />
   </a>
 </p>
 
