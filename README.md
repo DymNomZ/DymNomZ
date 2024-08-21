@@ -1,8 +1,7 @@
 ![Header](./dymesbanner.png)
 <h1 align="center">🍀 Hello! I'm Dymes! 🍀</h1>
 <h3 align="center">A Computer Science student, currently exploring the world of programming.</h3>
-<h4 align="center">"Okay, well, how do you know it's the right path?"</h4>
-<h4 align="center">"Because it stopped being easy"</h4>
+<h4 align="center">"The universe is under no obligation to make sense to you" <br><br> - Neil deGrasse Tyson</h4>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=dymnomz&label=Profile%20views&color=32a86d&style=flat-square&label=Profile+Views" alt="dymnomz profile view count" /> </p>
 
 - 🏢 Worked at **CeniXys** for 7 months
