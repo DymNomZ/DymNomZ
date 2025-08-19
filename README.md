@@ -1,11 +1,11 @@
 ![Header](./dymesbanner.png)
 <h1 align="center">🍀 Hello! I'm Dymes! 🍀</h1>
-<h3 align="center">A Computer Science student, currently exploring the world of programming.</h3>
+<h3 align="center">A Computer Science student exploring the programming world.</h3>
 <h4 align="center">"The universe is under no obligation to make sense to you" <br><br> - Neil deGrasse Tyson</h4>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=dymnomz&label=Profile%20views&color=32a86d&style=flat-square&label=Profile+Views" alt="dymnomz profile view count" /> </p>
 
 - 🏢 Worked at **CeniXys** for 7 months
-- 💻 I’m currently learning **Data Structures and Algorithms, Databases, and Object-Oriented Programming**
+- 💻 I’m currently learning **Intelligent Systems, Software Engineering, Application Development**
 
 <h3 align="Center">Connect with me:</h3>
 <p align="center" >
@@ -23,7 +23,7 @@
 <h3 align="Center">Languages and Tools:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=androidstudio,c,cpp,dart,flutter,idea,java,js,kotlin,mysql,ps,react,vscode" />
+    <img src="https://skillicons.dev/icons?i=windows,mint,c,cpp,vscode,dart,flutter,idea,java,ps" />
   </a>
 </p>
 
