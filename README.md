@@ -23,7 +23,7 @@
 <h3 align="Center">Languages and Tools:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=windows,mint,c,cpp,vscode,dart,flutter,idea,java,ps" />
+    <img src="https://skillicons.dev/icons?i=windows,mint,c,cpp,vscode,dart,flutter,idea,java,maven,ps" />
   </a>
 </p>
 
