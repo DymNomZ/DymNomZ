@@ -5,7 +5,9 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=dymnomz&label=Profile%20views&color=32a86d&style=flat-square&label=Profile+Views" alt="dymnomz profile view count" /> </p>
 
 - 🏢 Worked at **CeniXys** for 7 months
-- 💻 I’m currently learning **Intelligent Systems, Software Engineering, Application Development**
+- 🏅 PhilNITS FE certified
+- 💻 Learning about **Intelligent Systems, Software Engineering,** and **Blockchain Development**
+- 🔨 Building a lightweight, codebase-integrated 2D Java Engine and a separate, complementary Level Editor
 
 <h3 align="Center">Connect with me:</h3>
 <p align="center" >
