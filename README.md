@@ -10,24 +10,15 @@
 - 🔨 Building a lightweight, codebase-integrated **2D Java Engine** and a separate, complementary **Level Editor**
 
 <h3 align="Center">Connect with me:</h3>
-<p align="center" >
-  <a href="https://www.linkedin.com/in/dymierborgonia/">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-  <a href="mailto:dymierborgonia@gmail.com" >
-    <img src="https://skillicons.dev/icons?i=gmail" />
-  </a>
-  <a href="https://discord.com/users/279180492245565442/">
-    <img src="https://skillicons.dev/icons?i=discord" />
-  </a>
-</p>
+<p align="center"><a href="https://www.linkedin.com/in/dymierborgonia/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>&nbsp;&nbsp;<a href="mailto:dymierborgonia@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>&nbsp;&nbsp;<a href="https://discord.com/users/279180492245565442/"><img src="https://skillicons.dev/icons?i=discord" /></a></p>
 
-<h3 align="Center">Languages and Tools:</h3>
+<h3 align="Center">Environments, Languages, and Tools:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=windows,mint,c,cpp,vscode,dart,flutter,idea,java,maven,ps" />
+    <img src="https://skillicons.dev/icons?i=windows,mint,vscode,dart,flutter,idea,java,python" />
   </a>
 </p>
+<p align="center"><a href="https://lobehub.com/icons"><img height="48" src="https://unpkg.com/@lobehub/icons-static-png@latest/light/gemini-color.png"/></a>&nbsp;&nbsp;<a href="https://lobehub.com/icons"><img height="48" src="https://unpkg.com/@lobehub/icons-static-png@latest/light/aistudio.png"/></a>&nbsp;&nbsp;<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=ts"/></a>&nbsp;&nbsp;<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=solidity"/></a>&nbsp;&nbsp;<a href="https://lobehub.com/icons"><img height="48" src="https://unpkg.com/@lobehub/icons-static-png@latest/light/claude-color.png"/></a></p>
 
 ![Dym's GitHub stats](./generated/overview.svg) 
 ![Top Langs](./generated/languages.svg)
