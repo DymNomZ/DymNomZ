@@ -20,7 +20,7 @@ jobs:
           card: "stats"
           token: ${{ secrets.GITHUB_TOKEN }}
           path: "generated/overview.svg"
-          options: "username=DymNomZ&show_icons=true&line_height=32&theme=vue-dark&bg_color=001A0C&border_radius=9.0&text_color=FFE372&hide_border=true"
+          options: "username=DymNomZ&show_icons=true&line_height=30&theme=vue-dark&bg_color=001A0C&border_radius=9.0&text_color=FFE372&hide_border=true"
 
       - name: Generate Top Langs
         uses: readme-tools/github-readme-stats-action@v1
