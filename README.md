@@ -18,7 +18,7 @@
     <img src="https://skillicons.dev/icons?i=windows,mint,vscode,dart,flutter,idea,java,python" />
   </a>
 </p>
-<p align="center"><a href="https://lobehub.com/icons"><img height="48" src="https://unpkg.com/@lobehub/icons-static-png@latest/light/gemini-color.png"/></a>&nbsp;&nbsp;<a href="https://lobehub.com/icons"><img height="48" src="https://unpkg.com/@lobehub/icons-static-png@latest/light/aistudio.png"/></a>&nbsp;&nbsp;<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=ts"/></a>&nbsp;&nbsp;<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=solidity"/></a>&nbsp;&nbsp;<a href="https://lobehub.com/icons"><img height="48" src="https://unpkg.com/@lobehub/icons-static-png@latest/light/claude-color.png"/></a></p>
+<p align="center"><a href="https://lobehub.com/icons"><img height="48" src="https://unpkg.com/@lobehub/icons-static-png@latest/light/gemini-color.png"/></a>&nbsp;&nbsp;<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nextjs,ts"/></a>&nbsp;&nbsp;<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=solidity"/></a>&nbsp;&nbsp;<a href="https://lobehub.com/icons"><img height="48" src="https://unpkg.com/@lobehub/icons-static-png@latest/light/claude-color.png"/></a></p>
 
 ![Dym's GitHub stats](./generated/overview.svg) 
 ![Top Langs](./generated/languages.svg)
