@@ -4,10 +4,11 @@
 <h4 align="center">"The universe is under no obligation to make sense to you" <br><br> - Neil deGrasse Tyson</h4>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=dymnomz&label=Profile%20views&color=32a86d&style=flat-square&label=Profile+Views" alt="dymnomz profile view count" /> </p>
 
-- 🏢 Worked at **CeniXys** for 7 months
+- 💼️ Currently an intern at **Symph Inc.**
+- 🏢 Worked at **CeniXys**, **DOST**
 - 🏅 **PhilNITS** FE certified
 - 💻 Learning about **Intelligent Systems, Software Engineering,** and **Blockchain Development**
-- 🔨 Building a lightweight, codebase-integrated **2D Java Engine** and a separate, complementary **Level Editor**
+- 🔨 Building an AI-integrated teleradiology **TB screening platform** and a lightweight **2D Java Engine and Editor**
 
 <h3 align="Center">Connect with me:</h3>
 <p align="center"><a href="https://www.linkedin.com/in/dymierborgonia/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>&nbsp;&nbsp;<a href="mailto:dymierborgonia@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>&nbsp;&nbsp;<a href="https://discord.com/users/279180492245565442/"><img src="https://skillicons.dev/icons?i=discord" /></a></p>
