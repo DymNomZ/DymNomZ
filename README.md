@@ -7,7 +7,6 @@
 - 💼️ Currently an intern at **Symph Inc.**
 - 🏢 Worked at **CeniXys**, **DOST**
 - 🏅 **PhilNITS** FE certified
-- 💻 Learning about **Intelligent Systems, Software Engineering,** and **Blockchain Development**
 - 🔨 Building an AI-integrated teleradiology **TB screening platform** and a lightweight **2D Java Engine and Editor**
 
 <h3 align="Center">Connect with me:</h3>
