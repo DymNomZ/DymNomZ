@@ -5,11 +5,11 @@
 <!-- <p align="center"> <img src="https://komarev.com/ghpvc/?username=dymnomz&label=Profile%20views&color=32a86d&style=flat-square&label=Profile+Views" alt="dymnomz profile view count" /> </p> -->
 
 **Who, What, Where, When, and Why**
-- 💼️ Currently an intern at **Symph Inc.**
-- 🏅 **PhilNITS** FE certified
-- 🏢 Worked at **CeniXys**, **DOST**
-- 🎓️ 2027, Final Project: AI-integrated teleradiology **TB screening platform**
-- 🔨 Building a custom **2D Java Engine and Editor** for a passion project
+- ☕️ Agnostic Craftsman
+- 🏅 **BSCS** student, **PhilNITS** FE
+- 🏢 Worked for **CeniXys**, **DOST**, **Symph**
+- 🎓️ 2027, Final Project: AI-assisted **TB screening platform**
+- 🔨 To reach the pinnacle of the craft at its absolute beginning
 
 **Fun Facts**
 - 💚️ I love my wife
