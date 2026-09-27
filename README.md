@@ -22,10 +22,10 @@
 <h3 align="Center">Environments, Languages, and Tools:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=windows,mint,vscode,dart,flutter,idea,java,python" />
+    <img src="https://skillicons.dev/icons?i=windows,mint,vscode,dart,flutter,idea,java,spring,aws,python" />
   </a>
 </p>
-<p align="center"><a href="https://lobehub.com/icons"><img height="48" src="https://unpkg.com/@lobehub/icons-static-png@latest/light/gemini-color.png"/></a>&nbsp;&nbsp;<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nextjs,react,tailwind"/></a>&nbsp;&nbsp;<a href="https://lobehub.com/icons"><img height="48" src="https://unpkg.com/@lobehub/icons-static-png@latest/light/claude-color.png"/></a></p>
+<p align="center"><a href="https://lobehub.com/icons"><img height="48" src="https://unpkg.com/@lobehub/icons-static-png@latest/light/gemini-color.png"/></a>&nbsp;&nbsp;<a href="https://lobehub.com/icons"><picture><source media="(prefers-color-scheme: dark)" srcset="https://unpkg.com/@lobehub/icons-static-png@latest/dark/githubcopilot.png"><img src="https://unpkg.com/@lobehub/icons-static-png@latest/light/githubcopilot.png" width="48" height="48" style="border-radius: 50%; object-fit: cover;" alt="GitHub Copilot Icon" /></picture></a>&nbsp;&nbsp;<a href="https://lobehub.com/icons"><img height="48" src="https://unpkg.com/@lobehub/icons-static-png@latest/light/claude-color.png"/></a></p>
 
 <!--[Dym's GitHub stats](./generated/overview.svg) 
 ![Top Langs](./generated/languages.svg)
