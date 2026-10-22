@@ -6,7 +6,7 @@
 
 **Who, What, Where, When, and Why**
 - ☕️ Agnostic Craftsman
-- 🏅 **BSCS** student, **PhilNITS** FE
+- 🏅 **BSCS** student, **PhilNITS** FE, [**AWS Certified** Practitioner](https://skillsprofile.skillbuilder.aws/user/dymierborgonia/certification-badges)
 - 🏢 Worked for **CeniXys**, **DOST**, **Symph**
 - 🎓️ 2027, Final Project: AI-assisted **TB screening platform**
 - 🔨 To reach the pinnacle of the craft at its absolute beginning
