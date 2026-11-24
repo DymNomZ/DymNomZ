@@ -6,9 +6,9 @@
 
 **Who, What, Where, When, and Why**
 - ☕️ Agnostic Craftsman
-- 🏅 **BSCS** student, **PhilNITS** FE, [**AWS Certified** Practitioner](https://skillsprofile.skillbuilder.aws/user/dymierborgonia/certification-badges)
+- 🏅 **PhilNITS** FE, **AWS** Certified Practitioner ([**AI**](https://www.credly.com/badges/444acfff-ca4c-46a5-ab7a-3fd06e2ac30c/public_url), [**Cloud**](https://www.credly.com/badges/c057abea-ae72-484b-80f2-564499a5e52f/public_url))
 - 🏢 Worked for **CeniXys**, **DOST**, **Symph**
-- 🎓️ 2027, Final Project: AI-assisted **TB screening platform**
+- 🎓️ **BSCS** 2027, Thesis Project: TBXR - AI-assisted **TB screening platform**
 - 🔨 To reach the pinnacle of the craft at its absolute beginning
 
 **Fun Facts**
